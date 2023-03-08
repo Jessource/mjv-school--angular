@@ -1,7 +1,7 @@
 
 .conteudo-principal{
     margin-left: 15%;
-      margin-right: 15%;
+    margin-right: 15%;
     
 }
 .titulo-principal{
@@ -31,9 +31,11 @@ h3{
 }
 .texto{
     display: inline-block;
+    justify-content: center;
     width: 40%;
-    margin: 50px;
-    background-color: rgb(214, 127, 255);
+    margin: 1em;
+    margin-left: 5%;
+    background-color: bisque;
     
 
 }
